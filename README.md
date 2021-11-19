@@ -7,7 +7,7 @@ Repositório para o projeto desenvolvido durante o
 ### Equipe
 - __Negócio:__ David Davi Martines - lazy2martines@gmail.com
 - __Marketing:__ Amanda DetofolL Constante - amanda.dc.2002@gmail.com
-- __UX/Design:__ Natália Sens Weise - Nataliaweise@gmail.com
+- __UX/Design:__ Natália Sens Weise - [LinkedIn](https://www.linkedin.com/in/nat%C3%A1lia-sens-weise-0b9a42199/)
 - __Desenvolvimento:__ Gabriel Eduardo Lima - limaedugabriel@gmail.com | Thiago Vinícius de Oliveira Hornburg - ygfd.TO@gmail.com
   
 ### Desafio
